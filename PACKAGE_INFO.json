@@ -1,12 +1,12 @@
 {
-  "name": "counterfactual-frontend",
-  "version": "0.1.0",
-  "description": "Public demo interface for Counterfactual Reasoning Engine - structural logic analysis for legal narratives",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zeroniah/counterfactual-frontend.git"
-  },
-  "homepage": "https://counterfactual.vitalgnosis.com",
-  "author": "Zeroniah Research",
-  "license": "MIT"
+    "name": "counterfactual-frontend",
+    "version": "0.1.0",
+    "description": "Public demo interface for Counterfactual Reasoning Engine - structural logic analysis for legal narratives",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zeroniah/counterfactual-frontend.git"
+    },
+    "homepage": "https://counterfactual.vitalgnosis.com",
+    "author": "Zeroniah Research",
+    "license": "MIT"
 }
